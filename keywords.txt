@@ -1,0 +1,9 @@
+\
+roseniot	KEYWORD1
+SQLData	KEYWORD1
+wifi_v3	KEYWORD2
+webservern	KEYWORD2
+restapi	KEYWORD2
+httpget	KEYWORD2
+MqttHandler	KEYWORD2
+MyTimer	KEYWORD2

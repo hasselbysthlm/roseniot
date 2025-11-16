@@ -1,0 +1,14 @@
+\
+# Arduino
+*.DS_Store
+*.swp
+*.swo
+.build/
+cmake-build-*/
+
+# VSCode/PlatformIO
+.vscode/
+.pio/
+
+# Hemligheter
+src/RosenIoT_secrets.h
